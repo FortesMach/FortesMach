@@ -20,7 +20,5 @@
   <a href="https://twitter.com/FortesMach" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-fortes-42a01320a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:fortesmach@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![snake gif](https://github.com/FortesMach/FortesMach/blob/output/github-contribution-grid-snake.svg)
 
 </div>
